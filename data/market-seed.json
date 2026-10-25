@@ -1,0 +1,33 @@
+{
+  "name": "EURO STOXX 50",
+  "symbol": "SX5E",
+  "variant": "EUR Price Return",
+  "isin": "EU0009658145",
+  "value": 6068.22,
+  "unit": "index points",
+  "reference_date": "2026-10-23",
+  "retrieval_date": "2026-10-25",
+  "publication_date": null,
+  "transformation": "none",
+  "identity_source": "stoxx",
+  "close_sources": [
+    "sx5e_yahoo",
+    "sx5e_investing"
+  ],
+  "official_export_archived": false,
+  "verification_note": "STOXX verifies SX5E, EUR Price Return, ISIN EU0009658145. The 23 October 2026 close of 6,068.22 is cross-checked against Yahoo Finance and Investing.com historical data. These are separate publishers, not proof of independent upstream feeds. An official dated historical export was not available through the accessible interface; no official export is claimed.",
+  "source_rows": [
+    {
+      "source_id": "sx5e_yahoo",
+      "date": "2026-10-23",
+      "close": 6068.22,
+      "access": "search-index historical row; direct extraction unavailable"
+    },
+    {
+      "source_id": "sx5e_investing",
+      "date": "2026-10-23",
+      "close": 6068.22,
+      "access": "directly extracted historical table"
+    }
+  ]
+}

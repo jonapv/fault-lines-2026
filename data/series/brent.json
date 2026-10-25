@@ -1,0 +1,173 @@
+{
+  "id": "brent",
+  "title": "Elevated, but off its peak",
+  "subtitle": "Europe Brent spot FOB \u00b7 USD/barrel \u00b7 October 2026",
+  "kind": "line",
+  "source": "brent",
+  "labels": [
+    "01",
+    "02",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "19",
+    "20"
+  ],
+  "values": [
+    114.82,
+    135.51,
+    125.51,
+    125.44,
+    126.0,
+    130.18,
+    130.03,
+    129.95,
+    125.78,
+    126.55,
+    126.35,
+    119.33,
+    118.82,
+    115.22
+  ],
+  "unit": "USD/bbl",
+  "note": "Observed trading dates only; spacing is by observation, not calendar day. Missing October 21\u201323 values are not filled. This is physical spot, not futures.",
+  "retrieval_date": "2026-10-25",
+  "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+  "source_institution": "EIA",
+  "transformation": "none; selected observations transcribed from source",
+  "observations": [
+    {
+      "label": "01",
+      "value": 114.82,
+      "reference_date": "2026-10-01",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "02",
+      "value": 135.51,
+      "reference_date": "2026-10-02",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "05",
+      "value": 125.51,
+      "reference_date": "2026-10-05",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "06",
+      "value": 125.44,
+      "reference_date": "2026-10-06",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "07",
+      "value": 126.0,
+      "reference_date": "2026-10-07",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "08",
+      "value": 130.18,
+      "reference_date": "2026-10-08",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "09",
+      "value": 130.03,
+      "reference_date": "2026-10-09",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "12",
+      "value": 129.95,
+      "reference_date": "2026-10-12",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "13",
+      "value": 125.78,
+      "reference_date": "2026-10-13",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "14",
+      "value": 126.55,
+      "reference_date": "2026-10-14",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "15",
+      "value": 126.35,
+      "reference_date": "2026-10-15",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "16",
+      "value": 119.33,
+      "reference_date": "2026-10-16",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "19",
+      "value": 118.82,
+      "reference_date": "2026-10-19",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    },
+    {
+      "label": "20",
+      "value": 115.22,
+      "reference_date": "2026-10-20",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+      "source_institution": "EIA",
+      "transformation": "none"
+    }
+  ]
+}

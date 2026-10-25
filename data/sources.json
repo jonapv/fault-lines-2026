@@ -1,0 +1,172 @@
+[
+  {
+    "id": "debt",
+    "institution": "Eurostat",
+    "title": "Government debt, Q2 2026",
+    "publication_date": "2026-10-21",
+    "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp",
+    "evidence_note": "Overview and member-state comparison; preliminary quarterly data.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "hicp",
+    "institution": "Eurostat",
+    "title": "Final HICP, September 2026",
+    "publication_date": "2026-10-16",
+    "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
+    "evidence_note": "Annual rates table; April–September observations; next flash release date.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "energy",
+    "institution": "Eurostat",
+    "title": "HICP components, September 2026",
+    "publication_date": "2026-10-16",
+    "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Inflation_in_the_euro_area",
+    "evidence_note": "Final energy rate 18.9%, August 14.3%; replaces flash 18.8%. Evolving euro-area composition: EA21 from January 2026.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "brent",
+    "institution": "EIA",
+    "title": "Europe Brent Spot Price FOB",
+    "publication_date": null,
+    "url": "https://www.eia.gov/dnav/pet/hist/rbrted.htm",
+    "evidence_note": "Daily table, October 1–20; latest populated observation October 20. Actual release timestamp not established; retrieval date is not publication date.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "bls",
+    "institution": "ECB",
+    "title": "July 2026 bank lending survey",
+    "publication_date": "2026-07-21",
+    "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+    "evidence_note": "Q2 actual net tightening: enterprises 7%, housing 9%, consumer credit 12%. Previous enterprise expectation 19%.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "cci",
+    "institution": "European Commission / DG ECFIN",
+    "title": "October flash consumer confidence",
+    "publication_date": "2026-10-22",
+    "url": "https://economy-finance.ec.europa.eu/document/download/1e455a38-643d-44ad-81dd-e71f6c17d3a1_en?filename=Flash_consumer_2026_10_en.pdf",
+    "evidence_note": "Page 1: EA −17.9; monthly decline 1.1 points. September revised; Italian methodological break August–September.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "esi",
+    "institution": "European Commission / DG ECFIN",
+    "title": "September business and consumer surveys",
+    "publication_date": "2026-09-29",
+    "url": "https://economy-finance.ec.europa.eu/document/download/60c46029-7f60-40f0-b8ef-a9ca8aa46aae_en?filename=bcs_2026_09_en.pdf",
+    "evidence_note": "Page 1: EA ESI 97.9, down 0.5 points. Kept as September release vintage, not asserted to be a later revised value.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "esma",
+    "institution": "ESMA",
+    "title": "Risk monitoring, September 2026",
+    "publication_date": "2026-09-10",
+    "url": "https://www.esma.europa.eu/press-news/esma-news/ongoing-geopolitical-and-economic-vulnerabilities-masked-strong-investor",
+    "evidence_note": "Regulator assessment: optimistic valuations amid deteriorating conditions; qualitative evidence, not a crash probability.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "fsr",
+    "institution": "ECB",
+    "title": "Financial Stability Review, May 2026",
+    "publication_date": "2026-05",
+    "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202605~50566915a7.en.pdf",
+    "evidence_note": "Overview p. 6: interlinked geopolitical/fiscal, non-bank and bank credit/liquidity/funding risks can materialise jointly and amplify stress. Foreword p. 3: stronger bank buffers are counterevidence. Institutional context, not endorsement of the author forecast.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "fsr_calendar",
+    "institution": "ECB",
+    "title": "Financial Stability Review calendar",
+    "publication_date": null,
+    "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/index.en.html",
+    "evidence_note": "Next release scheduled 18 November 2026.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "fec",
+    "institution": "FEC",
+    "title": "Federal election calendar",
+    "publication_date": null,
+    "url": "https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/",
+    "evidence_note": "Next regular federal general election: 3 November 2026.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "boe",
+    "institution": "BOE",
+    "title": "Real Decreto 806/2026",
+    "publication_date": "2026-10-06",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742",
+    "evidence_note": "Article 2: general election on 29 November 2026.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "stoxx",
+    "institution": "STOXX",
+    "title": "EURO STOXX 50 / SX5E",
+    "publication_date": null,
+    "url": "https://stoxx.com/index/SX5E/",
+    "evidence_note": "STOXX verifies SX5E, EUR Price Return, ISIN EU0009658145. The 23 October 2026 close of 6,068.22 is cross-checked against Yahoo Finance and Investing.com historical data. These are separate publishers, not proof of independent upstream feeds. An official dated historical export was not available through the accessible interface; no official export is claimed.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "hicp_flash_calendar",
+    "institution": "Eurostat",
+    "title": "September flash release / next flash publication date",
+    "publication_date": "2026-10-02",
+    "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
+    "evidence_note": "Release header establishes next flash release on 4 November 2026. Used for calendar only; final September values retain their final-release source.",
+    "retrieval_date": "2026-10-25",
+    "verification": "primary-source text retrieved"
+  },
+  {
+    "id": "sx5e_yahoo",
+    "institution": "Yahoo Finance",
+    "title": "EURO STOXX 50 historical daily data",
+    "publication_date": null,
+    "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history/",
+    "evidence_note": "Historical row 23 October 2026: close 6068.22. Retrieved search-index excerpt; direct page extraction returned an internal error.",
+    "retrieval_date": "2026-10-25",
+    "verification": "historical row retrieved through search excerpt"
+  },
+  {
+    "id": "sx5e_investing",
+    "institution": "Investing.com",
+    "title": "Euro Stoxx 50 historical daily data",
+    "publication_date": null,
+    "url": "https://www.investing.com/indices/eu-stoxx50-historical-data",
+    "evidence_note": "Historical row 23 October 2026: price/close 6068.22; open 6094.43, high 6097.16, low 6021.09.",
+    "retrieval_date": "2026-10-25",
+    "verification": "historical table text retrieved"
+  },
+  {
+    "id": "stoxx_eod",
+    "institution": "STOXX",
+    "title": "End-of-day data interface",
+    "publication_date": null,
+    "url": "https://www.stoxx.com/end-of-the-day-data?eodd=1",
+    "evidence_note": "Focused official verification attempt on 25 October. Accessible text listed closing files but exposed no reproducible dated historical export for the target observation.",
+    "retrieval_date": "2026-10-25",
+    "verification": "official interface checked; historical export unavailable"
+  }
+]

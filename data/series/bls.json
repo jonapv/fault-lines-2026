@@ -1,0 +1,52 @@
+{
+  "id": "bls",
+  "title": "Credit standards tighten",
+  "subtitle": "Net share of banks tightening \u00b7 % \u00b7 Q2 2026",
+  "kind": "bar",
+  "source": "bls",
+  "labels": [
+    "Enterprises",
+    "Housing",
+    "Consumer"
+  ],
+  "values": [
+    7,
+    9,
+    12
+  ],
+  "unit": "% banks",
+  "note": "Net tightening is tightening minus easing, not loan contraction. Corporate tightening (7%) was below the previously expected 19%.",
+  "retrieval_date": "2026-10-25",
+  "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+  "source_institution": "ECB",
+  "transformation": "none; selected observations transcribed from source",
+  "observations": [
+    {
+      "label": "Enterprises",
+      "value": 7,
+      "reference_date": "2026-Q2",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+      "source_institution": "ECB",
+      "transformation": "none"
+    },
+    {
+      "label": "Housing",
+      "value": 9,
+      "reference_date": "2026-Q2",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+      "source_institution": "ECB",
+      "transformation": "none"
+    },
+    {
+      "label": "Consumer",
+      "value": 12,
+      "reference_date": "2026-Q2",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+      "source_institution": "ECB",
+      "transformation": "none"
+    }
+  ]
+}

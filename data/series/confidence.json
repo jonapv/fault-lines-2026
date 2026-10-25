@@ -1,0 +1,41 @@
+{
+  "id": "confidence",
+  "title": "Confidence loses ground",
+  "subtitle": "Euro-area consumer confidence \u00b7 balance points",
+  "kind": "line",
+  "source": "cci",
+  "labels": [
+    "Sep revised",
+    "Oct flash"
+  ],
+  "values": [
+    -16.8,
+    -17.9
+  ],
+  "unit": "points",
+  "note": "September = October \u221217.9 + reported decline 1.1 = \u221216.8 (explicit derivation). Two-point comparison, not a long trend. Italian methodological break precedes September.",
+  "retrieval_date": "2026-10-25",
+  "source_url": "https://economy-finance.ec.europa.eu/document/download/1e455a38-643d-44ad-81dd-e71f6c17d3a1_en?filename=Flash_consumer_2026_10_en.pdf",
+  "source_institution": "European Commission / DG ECFIN",
+  "transformation": "September derived as \u221217.9 + 1.1; October reported",
+  "observations": [
+    {
+      "label": "Sep revised",
+      "value": -16.8,
+      "reference_date": "2026-09",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://economy-finance.ec.europa.eu/document/download/1e455a38-643d-44ad-81dd-e71f6c17d3a1_en?filename=Flash_consumer_2026_10_en.pdf",
+      "source_institution": "European Commission / DG ECFIN",
+      "transformation": "derived: \u221217.9 + 1.1"
+    },
+    {
+      "label": "Oct flash",
+      "value": -17.9,
+      "reference_date": "2026-10",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://economy-finance.ec.europa.eu/document/download/1e455a38-643d-44ad-81dd-e71f6c17d3a1_en?filename=Flash_consumer_2026_10_en.pdf",
+      "source_institution": "European Commission / DG ECFIN",
+      "transformation": "none"
+    }
+  ]
+}

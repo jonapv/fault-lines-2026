@@ -1,0 +1,63 @@
+{
+  "id": "debt",
+  "title": "Unequal fiscal room",
+  "subtitle": "Government debt \u00b7 % of GDP \u00b7 Q2 2026",
+  "kind": "bar",
+  "source": "debt",
+  "labels": [
+    "Euro area",
+    "Italy",
+    "France",
+    "Spain"
+  ],
+  "values": [
+    88.8,
+    139.9,
+    119.1,
+    101.4
+  ],
+  "unit": "% GDP",
+  "note": "Levels alone do not measure funding stress. Euro-area debt rose from 88.4% in Q1; Spain was unchanged quarter on quarter.",
+  "retrieval_date": "2026-10-25",
+  "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp",
+  "source_institution": "Eurostat",
+  "transformation": "none; selected observations transcribed from source",
+  "observations": [
+    {
+      "label": "Euro area",
+      "value": 88.8,
+      "reference_date": "2026-Q2",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp",
+      "source_institution": "Eurostat",
+      "transformation": "none"
+    },
+    {
+      "label": "Italy",
+      "value": 139.9,
+      "reference_date": "2026-Q2",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp",
+      "source_institution": "Eurostat",
+      "transformation": "none"
+    },
+    {
+      "label": "France",
+      "value": 119.1,
+      "reference_date": "2026-Q2",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp",
+      "source_institution": "Eurostat",
+      "transformation": "none"
+    },
+    {
+      "label": "Spain",
+      "value": 101.4,
+      "reference_date": "2026-Q2",
+      "retrieval_date": "2026-10-25",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp",
+      "source_institution": "Eurostat",
+      "transformation": "none"
+    }
+  ]
+}
